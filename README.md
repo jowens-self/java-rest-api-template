@@ -10,3 +10,10 @@ So, I've made a general basic template to make getting started easier.
 * Java 8+
 * Tomcat 8+
 
+## Server path on ROOT
+
+1. Window -> Show View -> Other -> Server
+1. Double click on Tomcat
+1. Modules tab -> Change path to '/'
+
+
