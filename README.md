@@ -16,4 +16,3 @@ So, I've made a general basic template to make getting started easier.
 1. Double click on Tomcat
 1. Modules tab -> Change path to '/'
 
-
