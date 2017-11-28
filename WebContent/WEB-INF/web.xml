@@ -7,6 +7,11 @@
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
+	<listener>
+		<listener-class>
+			com.kndtran.java.ws.ApplicationServletContextListener
+		</listener-class>
+	</listener>
 	<servlet>
 		<servlet-name>Java REST API Template</servlet-name>
 		<servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
